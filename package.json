@@ -2,7 +2,7 @@
   "name": "form_test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmitriy-violentiy.github.io/modileForm",
+  "homepage": "https://dmitriy-violentiy.github.io/reactProject",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
